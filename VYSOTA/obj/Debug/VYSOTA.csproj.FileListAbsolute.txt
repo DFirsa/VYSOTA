@@ -1,0 +1,5 @@
+C:\Users\User\RiderProjects\VYSOTA\VYSOTA\bin\Debug\VYSOTA.exe
+C:\Users\User\RiderProjects\VYSOTA\VYSOTA\bin\Debug\VYSOTA.pdb
+C:\Users\User\RiderProjects\VYSOTA\VYSOTA\obj\Debug\VYSOTA.csprojResolveAssemblyReference.cache
+C:\Users\User\RiderProjects\VYSOTA\VYSOTA\obj\Debug\VYSOTA.exe
+C:\Users\User\RiderProjects\VYSOTA\VYSOTA\obj\Debug\VYSOTA.pdb
