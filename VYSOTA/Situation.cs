@@ -449,14 +449,13 @@ namespace VYSOTA
                         second = Convert.ToInt32(Console.ReadLine());
                     }
                     
-
                     Member f1 = expedition.Crew[first];
-                    expedition.Crew.Remove(f1);
                     if (expedition.Crew.Count > 2)
                     {
                         Member f2 = expedition.Crew[second];
                         expedition.Crew.Remove(f2);
                     }
+                    expedition.Crew.Remove(f1);
                     expedition.Crew.Remove(target);
                     expedition.tick();
                 }
